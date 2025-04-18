@@ -32,6 +32,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/roasted-churrasco-chicken/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/porto-bloom-cocktail/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
